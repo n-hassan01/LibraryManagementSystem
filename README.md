@@ -1,2 +1,2 @@
 # LibraryManagementSytem
- It's a c++ project
+ It's a windows app using c#
